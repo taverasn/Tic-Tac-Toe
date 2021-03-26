@@ -3,7 +3,7 @@
 
 A simple implementation of the classic tic tac toe game in the browser
 
-## Check it out @ [TicTacToe]() 🌐
+## Check it out @ [TicTacToe](https://jquery-tic-tac-toe.netlify.app/) 🌐
 
 Features:
 - Alternate between players
